@@ -183,20 +183,6 @@ Inventory-specific facts are grounded in tool results. If a listing does not spe
 
 Listing images are used only for display and are not used for visual inference.
 
-## Demo Screenshots
-
-### 1. Multi-turn inventory conversation
-
-This demonstrates inventory retrieval and short-term conversational memory. The assistant returns matching listings, resolves a positional reference such as "the first one", and keeps the same vehicle in context for a warranty follow-up.
-
-![Multi-turn inventory conversation](docs/screenshots/1_multi_turn_inventory.png)
-
-### 2. Returning-user memory
-
-This demonstrates long-term memory across completely separate sessions. The same user starts a new conversation and previously saved automotive preferences are still available.
-
-![Returning-user preference recall](docs/screenshots/2_returning_user_new_session.png)
-
 ## Testing
 
 Run the offline test suite:
