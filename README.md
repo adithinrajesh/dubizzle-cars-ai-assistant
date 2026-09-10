@@ -1,4 +1,4 @@
-# dubizzle Cars AI Assistant
+# Dubizzle Cars AI Assistant
 
 A conversational assistant for exploring the supplied dubizzle used-car inventory.
 
