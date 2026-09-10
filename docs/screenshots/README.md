@@ -32,7 +32,7 @@ The assistant resolves "the first one" using the ordered search results stored i
 
 ### 3. Contextual warranty follow-up
 
-**File:** `Screenshot 2026-09-10 151709.png`
+**File:** `Screenshot 2026-09-10 151719.png`
 
 The user then asks:
 
@@ -44,17 +44,9 @@ Because the source listing does not specify warranty information, the assistant 
 
 ![Warranty follow-up](<Screenshot 2026-09-10 151709.png>)
 
-### 4. Session context and grounded response
-
-**File:** `Screenshot 2026-09-10 151719.png`
-
-This wider view shows the same live session together with the selected listing card and the grounded warranty response, demonstrating that the follow-up remains tied to the same vehicle.
-
-![Session context](<Screenshot 2026-09-10 151719.png>)
-
 ## Returning-user memory
 
-### 5. Preference persistence across sessions
+### 4. Preference persistence across sessions
 
 **File:** `Screenshot 2026-09-10 151833.png`
 
